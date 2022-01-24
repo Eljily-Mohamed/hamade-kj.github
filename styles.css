@@ -239,7 +239,7 @@ span.effect {
 }
 
 .content::-webkit-scrollbar-track {
-    background-color: var(--color-primary);
+    background-color: yellow;
     outline: 1px solid #eee;
 }
 
