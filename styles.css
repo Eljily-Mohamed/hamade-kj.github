@@ -369,7 +369,7 @@ span.effect {
     font-size: 1.6rem;
     font-weight: 400;
     line-height: 2;
-    color: var(--black);
+    color: yellow;
 }
 
 .resume .year,
@@ -387,7 +387,7 @@ span.effect {
 .blog-post .post-title {
     font-size: 1.6rem;
     font-weight: 600;
-    color: var(--very-dark);
+    color:yellow;
 
 }
 
@@ -430,7 +430,7 @@ span.effect {
 .skill p {
     font-size: 1.4rem;
     font-weight: 700;
-    color: var(--very-dark);
+    color: greenyellow;
 }
 
 /* PORTFOLIO SECTION */
@@ -444,7 +444,7 @@ span.effect {
 .blog-post,
 .contact-details {
     border: 1px solid #fff;
-    background-color: #fff;
+    background-color: #000;
     border-bottom: 1px solid var(--color-primary);
     border-radius: 5px;
     padding: 1rem;
@@ -537,7 +537,7 @@ span.effect {
     font-family: inherit;
     border: none;
     outline: none;
-    border-bottom: 1px solid var(--very-dark);
+    border-bottom: 1px solid yellow;
     background-color: transparent;
 }
 
