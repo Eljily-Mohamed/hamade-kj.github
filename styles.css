@@ -161,7 +161,7 @@ span.effect {
 .profile-icons a {
     font-size: 2rem;
     margin: 5px;
-    color: var(--black);
+    color: white;
     text-decoration: none;
     transition: all .3s;
 }
@@ -176,7 +176,7 @@ span.effect {
     width: 100%;
     display: flex;
     justify-content: space-around;
-    border-top: 1px solid rgba(0,0,0,.2);
+    border-top: 1px solid white;
     padding: 2rem;
 }
 
