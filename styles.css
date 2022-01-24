@@ -224,7 +224,7 @@ span.effect {
     top: 6rem;
     width: 100%;
     height: 1px;
-    background-color: rgba(0,0,0,.2);
+    background-color: yellow;
 }
 
 .content-about {
@@ -235,7 +235,7 @@ span.effect {
     height: 5px;
     width: 4px;
     border: 1px solid #d5d5d5;
-    background: #d5d5d5;
+    background: #db6400;
 }
 
 .content::-webkit-scrollbar-track {
