@@ -119,7 +119,7 @@ nav li a:hover {
     min-width: 40rem;
     height: 80vh;
     border-radius: 3px;
-    background-color: #fff;
+    background-color: green;
     position: relative;
     z-index: 1;
 }
