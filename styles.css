@@ -330,17 +330,18 @@ span.effect {
     width: 12rem;
     height: 12rem;
     border-radius: 33% 67% 68% 32% / 46% 54% 46% 54%;
-    border: 2px solid #eee;
+    border: 2px solid #000;
     margin-bottom: 1rem;
 }
 
 .content-about .content-details p {
     color: #fff;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .content-about .content-details p span.text {
     font-size: 1.8rem;
+    color: yellow;
 }
 
 .content-about .content-details p span.name {
