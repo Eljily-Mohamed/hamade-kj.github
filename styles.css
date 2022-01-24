@@ -64,7 +64,7 @@ img {
 }
 
 nav {
-    background-color: red;
+    background-color: #fff;
     margin: 2rem 1rem 0 0;
     border-radius: 3px;
 }
@@ -83,7 +83,7 @@ nav ul li {
 }
 
 nav ul li:not(:last-child) {
-    border-bottom: 1px solid ;
+    border-bottom: 1px solid #eee;
 }
 
 nav li i {
