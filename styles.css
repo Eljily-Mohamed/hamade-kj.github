@@ -205,7 +205,7 @@ span.effect {
 
 .content {
     width: 100%;
-    background-color:var(--black);
+    background-color:#000;
     padding: 1.5rem;
     height: 75vh;
     border: 1px solid transparent;
