@@ -183,10 +183,11 @@ span.effect {
 .profile-cta a {
     font-size: 1.4rem;
     font-weight: 600;
-    color: var(--black);
+    color: white;
     text-transform: uppercase;
     text-decoration: none;
     transition: all .3s;
+    font-weight: bold22;
 }
 
 .profile-cta a:hover {
