@@ -26,7 +26,7 @@ html {
 body {
     font-family: 'Open Sans', sans-serif;
     padding: 2rem;
-    background:url();
+    background: linear-gradient(to right bottom, #fff, #9d0191);
     background-repeat: no-repeat;
     height: 100vh;
     margin: 0 auto;
