@@ -304,11 +304,11 @@ span.effect {
 }
 
 .content-about .content-header h2 {
-    color: #eee;
+    color: yellow;
 }
 
 .content-header h2 span {
-    color: var(--color-primary);
+    color: yellow;
 }
 
 .content-details {
