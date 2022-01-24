@@ -26,13 +26,15 @@ html {
 body {
     font-family: 'Open Sans', sans-serif;
     padding: 2rem;
-    background: linear-gradient(to right bottom, #fff, #9d0191);
+    background: black;
+    color: white;
     background-repeat: no-repeat;
     height: 100vh;
     margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bold;
     
 }
 
