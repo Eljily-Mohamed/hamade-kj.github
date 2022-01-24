@@ -34,14 +34,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: bold;
+
     
 }
 
 p {
     font-size: 1.6rem;
     line-height: 1.5;
-    color: var(--black);
+   color: #ffb640;
+   font-weight: 400;
 }
 
 img {
