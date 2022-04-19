@@ -60,16 +60,6 @@ for (let i = 0; i < navLi.length; i++) {
 
 
 
-  // TEXT EFFECT
-  // TEXT ARRAY
-  const dataText = ["Web Developer.", "Blogger", "Content Developer", "Developer Advocate"];
-  document.addEventListener("DOMContentLoaded", typingEffect);
-
-  function typingEffect() {
-
-  function typeWriter(text, i, fnCallback) {
-    if (i < (text.length)) {
-      document.querySelector(".text-effect").innerHTML = text.substring(0, i+1) + "<span class='effect'></span>";
 
       // SET DELAY BEFORE NEXT CHARACTER
       setTimeout(function() {
